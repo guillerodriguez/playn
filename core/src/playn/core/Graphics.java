@@ -24,7 +24,7 @@ import static playn.core.GL20.*;
 /**
  * Provides access to graphics information and services.
  */
-public abstract class Graphics {
+public abstract class GraphicsXxx {
 
   protected final Platform plat;
   protected final Dimension viewSizeM = new Dimension();
